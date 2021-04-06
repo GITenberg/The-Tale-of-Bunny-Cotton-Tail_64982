@@ -1,0 +1,22 @@
+_repo: The-Tale-of-Bunny-Cotton-Tail_64982
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Laura Rountree
+    birthdate: 1876
+    deathdate: 1924
+    gutenberg_agent_id: '3469'
+    url: http://www.gutenberg.org/2009/agents/3469
+description: ''
+gutenberg_issued: '2021-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Tale of Bunny Cotton-Tail
+url: http://www.gutenberg.org/ebooks/64982
